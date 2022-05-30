@@ -2,14 +2,14 @@
 
 #Single linked list 
 
-class Node(): # children class 
+class Node(): # parent class 
     
     def __init__(self,data):
 
         self.data = data
         self.next = None
 
-class linkedlist(Node):
+class linkedlist(Node): #children class
     
     def __init__(self):
         self.head = None
