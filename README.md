@@ -1,3 +1,3 @@
 # Algorithms-and-datastructures
 
-Basic algorithms form fundamental course in computer science
+Basic algorithms from course in computer science
